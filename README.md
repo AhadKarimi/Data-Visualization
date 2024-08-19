@@ -4,8 +4,8 @@ Welcome to the **Data Visualization** repository! This repository is dedicated t
 
 ## Table of Contents
 
-- [Power BI](#power-bi)
-  - [Post 1: Multiply SUM by Column in Power BI](PowerBI/Multiply SUM by Column in Power BI/code.md)
+- [Power BI](PowerBI)
+  - [Post 1: Multiply SUM by Column in Power BI](PowerBI/Multiply%20SUM%20by%20Column%20in%20Power%20BI/code.md)
 
 ## Power BI
 
@@ -13,7 +13,7 @@ This section contains various posts and resources related to Power BI. Each fold
 
 ### Current Posts
 
-1. **[Multiply SUM by Column in Power BI](PowerBI/Multiply SUM by Column in Power BI/code.md)**: Learn how to multiply sum by column in Power BI reports.
+1. **[Multiply SUM by Column in Power BI](PowerBI/Multiply%20SUM%20by%20Column%20in%20Power%20BI/code.md)**: Learn how to multiply sum by column in Power BI reports. 
 
 ## Future Content
 
