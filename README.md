@@ -6,6 +6,7 @@ Welcome to the **Data Visualization** repository! This repository is dedicated t
 
 - [Power BI](PowerBI)
   - [Post 1: Multiply SUM by Column in Power BI](PowerBI/Multiply%20SUM%20by%20Column%20in%20Power%20BI/code.md)
+  - [Post 2: Visualizing Interest Rates, Housing Prices, and Municipality Population in Power BI](PowerBI/Visualizing%20Interest%20Rates,%20Housing%20Prices,%20and%20Municipality%20Population%20in%20Power%20BI/visualizing-interest-rates-housing-prices-population.md)
 
 ## Power BI
 
@@ -13,7 +14,8 @@ This section contains various posts and resources related to Power BI. Each fold
 
 ### Current Posts
 
-1. **[Multiply SUM by Column in Power BI](PowerBI/Multiply%20SUM%20by%20Column%20in%20Power%20BI/code.md)**: Learn how to multiply sum by column in Power BI reports. 
+1. **[Multiply SUM by Column in Power BI](PowerBI/Multiply%20SUM%20by%20Column%20in%20Power%20BI/code.md)**: Learn how to multiply sum by column in Power BI reports.
+2. **[Visualizing Interest Rates, Housing Prices, and Municipality Population in Power BI](PowerBI/Visualizing%20Interest%20Rates,%20Housing%20Prices,%20and%20Municipality%20Population%20in%20Power%20BI/visualizing-interest-rates-housing-prices-population.md)**: Discover how to visualize interest rates, housing prices, and municipality population in Power BI. 
 
 ## Future Content
 
